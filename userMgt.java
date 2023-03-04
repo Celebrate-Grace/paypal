@@ -4,3 +4,4 @@ dominion
 davade
 obi
 petere
+Manager
